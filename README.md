@@ -20,7 +20,6 @@ Este proyecto es una página web dedicada al juego **Left 4 Dead 2**, un juego d
 
 - **HTML**: Para la estructura y contenido de la página.
 - **CSS**: Para el diseño y el estilo visual de la página.
-- **JavaScript** (opcional): Para posibles interacciones dinámicas (si se ha implementado).
   
 ## Instalación
 
